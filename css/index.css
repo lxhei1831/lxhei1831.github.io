@@ -27008,11 +27008,11 @@ div#runtime {
   pointer-events: none;
 }
 #workboard img.boardsign {
-  /* width: 100%; */
-  /* max-width: 130px; */
+  width: 100%;
+  max-width: 130px;
   /* transform:scale(1.2); */
-  height: 110px;
-  width: 83%;
+  /* height: 110px; */
+  /* width: 83%; */
   border-radius: 0px;
 }
 @-moz-keyframes flashlight {
