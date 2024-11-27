@@ -59,16 +59,16 @@
 
   const ldconfig = {
     light: {
-      smallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/xiaotu.png', //浅色模式 小图链接 尽可能配置小于100k的图片
-      largeSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/datu.png', //浅色模式 大图链接 最终显示的图片
-      mobileSmallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/xiaotu.png', //手机端浅色小图链接 尽可能配置小于100k的图片
+      smallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/1_164f6.png', //浅色模式 小图链接 尽可能配置小于100k的图片
+      largeSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/1_164f6.png', //浅色模式 大图链接 最终显示的图片
+      mobileSmallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/1_164f6.png', //手机端浅色小图链接 尽可能配置小于100k的图片
       mobileLargeSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/datu.png', //手机端浅色大图链接 最终显示的图片
       enableRoutes: ['/'],
     },
     dark: {
-      smallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/xiaotu.png', //深色模式 小图链接 尽可能配置小于100k的图片
-      largeSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/datu.png', //深色模式 大图链接 最终显示的图片
-      mobileSmallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/xiaotu.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
+      smallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/1_164f6.png', //深色模式 小图链接 尽可能配置小于100k的图片
+      largeSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/1_164f6.png', //深色模式 大图链接 最终显示的图片
+      mobileSmallSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/datu.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
       mobileLargeSrc: 'https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/datu.png', //手机端深色大图链接 最终显示的图片
       enableRoutes: ['/'],
     },
