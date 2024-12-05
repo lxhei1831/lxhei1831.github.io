@@ -5,7 +5,7 @@ Swal.fire({
     allowOutsideClick: true,
     showConfirmButton: false,
     confirmButtonText: "好的",
-    imageUrl: "https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/yuki77mi-anydownloader.com%20(1).gif",
+    imageUrl: "https://cdn.jsdelivr.net/gh/lxhei1831/blog_img@main/X2Twitter.com_EwmI-j3VEAMGDJ3_gif-ezgif.com-video-to-gif-converter%20(1).gif",
     imageWidth: 160,
     imageHeight: 160,
 });
